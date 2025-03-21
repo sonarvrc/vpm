@@ -16,7 +16,7 @@
 
     "packages":[
         {
-            "name":"Sonar-WorldAssets",
+            "name":"com.vrchat.world",
             "releases":[
                 "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/Release/PatreonList.zip"
             ]
