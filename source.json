@@ -24,7 +24,7 @@
         {
             "name":"PatreonList",
             "releases":[
-                "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/Release/PatreonList.zip"
+                "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/0.2.0/SonarPatreonSign.zip"
             ],
             "name":"com.vrchat.udonsharp",
             "releases":[
