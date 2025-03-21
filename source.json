@@ -16,7 +16,7 @@
 
     "packages":[
         {
-            "name":"Sonar-PatreonSign",
+            "name":"Sonar-WorldAssets",
             "releases":[
                 "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/Release/PatreonList.zip"
             ]
