@@ -16,9 +16,10 @@
 
     "packages":[
         {
-            "name":"com.vrchat.worlds",
+            "name":"com.vrchat.udonsharp",
             "releases":[
-                "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/Release/PatreonList.zip"
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
             ]
         }
     ]
