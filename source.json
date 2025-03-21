@@ -16,9 +16,9 @@
 
     "packages":[
         {
-            "name":"Sonar Patreon Sign",
+            "name":"Sonar-PatreonSign",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip"
+                "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/Release/PatreonList.zip"
             ],
             "name":"com.vrchat.udonsharp",
             "releases":[
