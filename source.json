@@ -18,7 +18,7 @@
     ],
     "packages":[
         {
-            "name":"com.magictwinsworld.SonarPatreonSig",
+            "name":"com.magictwinsworld.SonarPatreonSign",
             "releases":[
                 "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/0.5.0/com.magictwinsworld.SonarPatreonSign-0.5.0.zip"
             ]
