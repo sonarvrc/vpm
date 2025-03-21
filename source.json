@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
+    "name":"Sonar Assets",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://sonarvrc.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"sonar@magictwin.net",
+        "name":"Sonarvrc",
+        "url":"magictwin.net"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/sonarvrc/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
