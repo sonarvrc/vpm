@@ -22,7 +22,7 @@
     
     "packages":[
         {
-            "name":"PatreonList",
+            "name":"SonarPatreonSign",
             "releases":[
                 "https://github.com/magictwinsworld/SonarPatreonSign/releases/download/0.2.0/SonarPatreonSign.zip"
             ],
