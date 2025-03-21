@@ -13,13 +13,10 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-
     "githubRepos":[
         "magictwinsworld/SonarPatreonSign",
         "poiyomi/PoiyomiToonShader"
     ],
-
-    
     "packages":[
         {
             "name":"SonarPatreonSign",
