@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "magictwinsworld/SonarPatreonSign"
+        "magictwinsworld/SonarPatreonSign",
+        "sonarcrc/VPM-Base"
     ]
 }
