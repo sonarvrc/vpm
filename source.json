@@ -1,13 +1,13 @@
 {
-    "name":"Sonar Assets",
-    "id":"com.vrchat.example-listing",
+    "name":"Sonar Assets ",
+    "id":"com.sonarvrc.base",
     "url":"https://sonarvrc.github.io/vpm/index.json",
     "author":{
         "email":"sonar@magictwin.net",
         "name":"Sonarvrc",
         "url":"https://magictwin.net"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Packages for Worldcreation",
     "infoLink":{
         "url":"https://github.com/sonarvrc/vpm",
         "text":"View on GitHub"
